@@ -1,6 +1,6 @@
 using System;
 
-namespace AceInsPepscProxy
+namespace AceInsPepscProxy.Api
 {
     public class WeatherForecast
     {

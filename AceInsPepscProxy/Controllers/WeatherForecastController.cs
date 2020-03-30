@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace AceInsPepscProxy.Controllers
+namespace AceInsPepscProxy.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
