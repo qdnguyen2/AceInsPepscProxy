@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace AceInsPepscProxy.Api.Tests
+namespace AceInsPepscProxy.Api.Dal.Tests
 {
     public class UnitTest1
     {
